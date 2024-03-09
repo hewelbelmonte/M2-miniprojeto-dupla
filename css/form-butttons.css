@@ -1,0 +1,17 @@
+#criarFormulario{
+    cursor: pointer;
+    opacity: 1;
+    background: url('https://help.nflxext.com/0af6ce3e-b27a-4722-a5f0-e32af4df3045_what_is_netflix_5_en.png') no-repeat;
+    background-size: cover;
+    border: none;
+    border-radius: 3px;
+    color: white;
+    padding: 40px;
+    font-weight: bold;
+    font-family: 'Montserrat';
+    transition-duration: .6s;
+}
+
+#criarFormulario:hover{
+    opacity: .9;
+}

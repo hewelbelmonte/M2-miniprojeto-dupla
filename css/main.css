@@ -1,4 +1,5 @@
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap'); @import url('https://fonts.googleapis.com/css2?family=Teko:wght@300..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap'); 
+@import url('https://fonts.googleapis.com/css2?family=Teko:wght@300..700&display=swap');
 
 * {
     box-sizing: border-box;
@@ -31,10 +32,6 @@ main{
     max-width: 60vw;
 }
 
-form{
-    padding: 10vw;
-    border-radius: 6px;
-}
 
 footer{
     width: 100vw;
@@ -58,8 +55,10 @@ a{
     color: 	#d40000;
 }
 
-button{
-    font: 'Montserrat';
+#content{
+    background: url('https://media.printables.com/media/prints/385939/images/3233209_ca76f0fc-36c3-4c32-87fb-a3cc85f83f9e/thumbs/cover/800x800/jpg/netflix_render.webp');
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 8vw;
+    border-radius: 5px
 }
-
-
